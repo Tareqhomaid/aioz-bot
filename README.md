@@ -10,3 +10,6 @@ The bot features:
 4- Smart enough to skip ads if they took ages to load.
 5- Generates up to 3 AIOZ/hour = 720AIOZ every month and it can get even more (depends on your connection and computer)
 
+Usage:
+1- put your accounts on the accounts.text
+2- make sure your chrome version compatible with the chromedriver.exe
